@@ -82,7 +82,7 @@ const nextConfig = {
       },
     ];
   },
-  // assetPrefix: 'https://www.sibinfotech.com',
+  assetPrefix: 'sibinfotechnext-14.vercel.app',
 };
 
 export default nextConfig;
