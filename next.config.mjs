@@ -82,7 +82,7 @@ const nextConfig = {
       },
     ];
   },
-  assetPrefix: 'sibinfotechnext-14.vercel.app',
+  // assetPrefix: 'sibinfotechnext-14.vercel.app',
 };
 
 export default nextConfig;
